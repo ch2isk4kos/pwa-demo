@@ -45,7 +45,7 @@ const App = () => {
                 src={`https://openweathermap.org/img/wn/${weather.weather[0].icon}@2x.png`}
                 alt={weather.weather[0].description}>
               </img>
-              <h4>{weather.weather[0].description}</h4>
+              <h3>{weather.weather[0].description}</h3>
             </div>
           </div>
         )}
