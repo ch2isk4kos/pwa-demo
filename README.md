@@ -12,4 +12,4 @@ Fork this repo to your local machine.
 
 Open your terminal and run the following command:
 
-`npm install && npm start`
+$ `npm install && npm start`
