@@ -1,5 +1,5 @@
 import React from 'react';
-import { fetchWeather } from '../adapters/weatherApdaper';
+import { fetchWeather } from '../adapters/weatherAdapter';
 
 const App = () => {
   return (
