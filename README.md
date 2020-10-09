@@ -6,9 +6,9 @@ A modern progressive web application using the **[OpenWeather API](<https://open
 
 </br>
 
-## install app
+## Install App
 
-Fork the repo to your local machine.
+Fork this repo to your local machine.
 
 Open your terminal and run the following command:
 
