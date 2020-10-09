@@ -11,7 +11,7 @@ A modern progressive web application using the **[OpenWeather API](<https://open
 1. Fork this repo to your local machine.
 </br>
 2. Open a terminal and change into the directory:
-$ `cd github.com/react-pwa/pwa-client`
+  $ `cd github.com/react-pwa/pwa-client`
 </br>
 3. Run the following command:
-$ `npm install && npm start`
+  $ `npm install && npm start`
